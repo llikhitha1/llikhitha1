@@ -9,7 +9,6 @@
 <!--- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - ⚡ Fun fact: ...-->
-- 📫 How to reach me: likhitha.saragadam18@gmail.com
-- 😄 Pronouns: She/Her
+
 
 
