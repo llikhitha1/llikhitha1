@@ -1,6 +1,6 @@
 ### Hi there, I'm Lokeswari Likhitha! 👋
 
-- 🔭 I’m currently working as aCloud Support Engineer @ AWS
+- 👩🏻‍💻 I’m currently working as a Cloud Support Engineer @ AWS
 
 
 
